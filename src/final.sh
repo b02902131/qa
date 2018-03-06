@@ -1,0 +1,1 @@
+ python cinq_wordEmb_2.py test --testing_data_path=$1 --result_path=$2 --load_model=save_model/model_0119_wdim100_cdim28.hdf5  --char_emb_dim=28
